@@ -1,0 +1,26 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+answer = when you add first number and second number together
+
+// Exercise 2: Check if a Number is Even or Odd
+
+If number divisible by 2, = even. If number not divisible by two = odd
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) 1, 2, 3, 4, 5
+
+b) 1 + 2 + 3 + 4 + 5 = 15. 15 divided by 5 = 3. 3 = average of these five numbers
+
+c) If numbers 1, 2 , 3, 4, 5 are used, then 1 must be the smallest, and 5 must be the largest
+
+d)The average is all the numbers added, divided by the amount of numbers present. So if you add 1, 2, 3, 4, and 5, that is 5 numbers total. They add up to the sum of 15. 15 divided by 5 is 3. 5 is 4 more than 1, so it must be the largest number, while 1 is 4 less than 5, so it must be the smallest number. 
+
+
+-- END --
